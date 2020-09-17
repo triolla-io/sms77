@@ -2,6 +2,7 @@
     "name": "yna/sms77",
     "description": "SMS77 Notifications Channel for Laravel",
     "homepage": "https://github.com/laravel-notification-channels/sms77",
+    "version": "1.0.1",
     "license": "MIT",
     "authors": [
         {
